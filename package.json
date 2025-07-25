@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/roykit360/proyect#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "zod": "^4.0.10"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
