@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Edupan app DocuTrack\r la creacion de este app esta hecha en framework de react",
   "main": "index.js",
-  "types": "module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+
   "bugs": {
     "url": "https://github.com/roykit360/proyect/issues"
   },
